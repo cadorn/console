@@ -8,6 +8,10 @@
         "lib-js-system": {
             "catalog": "http://github.com/cadorn/console/raw/master/catalog.json",
             "name": "lib-js-system"
+        },
+        "lib-php": {
+            "catalog": "http://github.com/cadorn/console/raw/master/catalog.json",
+            "name": "lib-php"
         }
     }
 }

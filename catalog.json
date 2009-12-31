@@ -9,6 +9,10 @@
         "lib-js-system": {
             "location": "http://github.com/cadorn/console/zipball/master/",
             "path": "packages/lib-js-system"
+        },
+        "lib-php": {
+            "location": "http://github.com/cadorn/console/zipball/master/",
+            "path": "packages/lib-php"
         }
     }
 }
