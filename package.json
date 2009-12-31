@@ -1,0 +1,6 @@
+{
+    "name": "console",
+    "dependencies": [
+        "narwhal"
+    ]
+}
