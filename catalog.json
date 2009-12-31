@@ -1,4 +1,14 @@
 {
     "schema": "1.1",
-    "packages": {}
+    "location": "http://github.com/cadorn/console/raw/master/catalog.json",
+    "packages": {
+        "lib-js": {
+            "location": "http://github.com/cadorn/console/zipball/master/",
+            "path": "packages/lib-js"
+        },
+        "lib-js-system": {
+            "location": "http://github.com/cadorn/console/zipball/master/",
+            "path": "packages/lib-js-system"
+        }
+    }
 }

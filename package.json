@@ -1,6 +1,13 @@
 {
     "name": "console",
-    "dependencies": [
-        "narwhal"
-    ]
+    "using": {
+        "lib-js": {
+            "catalog": "http://github.com/cadorn/console/raw/master/catalog.json",
+            "name": "lib-js"
+        },
+        "lib-js-system": {
+            "catalog": "http://github.com/cadorn/console/raw/master/catalog.json",
+            "name": "lib-js-system"
+        }
+    }
 }
