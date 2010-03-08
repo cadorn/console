@@ -1,3 +1,10 @@
 {
-    "name": "lib-js"
+    "name": "lib-js",
+    "type": "using",
+    "using": {
+        "fireconsole": {
+            "location": "http://github.com/cadorn/fireconsole/raw/master/catalog.json",
+            "name": "lib-js"
+        }
+    }
 }

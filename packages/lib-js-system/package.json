@@ -1,3 +1,9 @@
 {
-    "name": "lib-js-system"
+    "name": "lib-js-system",
+    "using": {
+        "console": {
+            "location": "http://github.com/cadorn/console/raw/master/catalog.json",
+            "name": "lib-js"
+        }
+    }
 }
